@@ -1,0 +1,24 @@
+.primary{
+    margin: auto;
+    color: black;
+    width: 50%;
+    align-content: center;
+}
+.center {
+    margin: auto;
+    width: 50%;
+    height: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+div {
+
+    align-content: center;
+  }
+ 
+ 
+  body::after{
+    background:url("./airplane.jpg");
+    opacity: 0.5;
+    
+  }
