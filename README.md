@@ -14,3 +14,11 @@ This project has 3 partts to it
 2. UI(Written over react)
 3. recommendation system(Made on collaborative filtering)
 
+How to use
+
+
+travelshopper.ipynb exposes a rest endpoint which can be used by the ui for showing the recommendation based on location
+use the extension folder to create the chrome extension
+there is a basic ui to demo the piece
+
+
